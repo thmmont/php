@@ -1,6 +1,6 @@
 <?php
 
     echo"Meu primeiro arquivo PHP";
-    echo"Olá mundo";
+    echo"Olá mundo HCODE";
 
 ?>
